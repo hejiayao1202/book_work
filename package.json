@@ -1,0 +1,22 @@
+{
+  "name": "book_work",
+  "version": "1.0.0",
+  "description": "这是一个gitbook自动化构建的Work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hejiayao1202/book_spa.git"
+  },
+  "author": "hejiayao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hejiayao1202/book_spa/issues"
+  },
+  "homepage": "https://github.com/hejiayao1202/book_spa#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
